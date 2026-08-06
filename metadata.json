@@ -1,0 +1,6 @@
+{
+  "name": "FALAQ",
+  "description": "A fast, safe, and modern Android browser with built-in AMOLED dark mode, strict safe-search, and domain blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
