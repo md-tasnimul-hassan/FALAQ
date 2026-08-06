@@ -1,22 +1,77 @@
-Copyright (c) 2024 FALAQ Browser
+If the website is down or unavailable, you can copy the official text directly from their GitHub repository or copy and paste the full text below into your `LICENSE` file.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction for non-commercial purposes, including
-the rights to use, copy, modify, merge, publish, and distribute copies of the
-Software for personal or educational use, subject to the following conditions:
+### PolyForm Noncommercial License 1.0.0 (Full Official Text)
 
-1. The above copyright notice and this permission notice shall be included in all
-   copies or substantial portions of the Software.
+Copy and paste everything in the box below directly into your `LICENSE` file:
 
-2. Commercial use, distribution, monetization, or incorporation of the Software, 
-   its source code, or any derivatives into a commercial product requires 
-   explicit written permission from the copyright holder.
+```markdown
+PolyForm Noncommercial License 1.0.0
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose. However, you may only distribute the software according to Distribution License and make changes or new works based on the software according to Changes and New Works License.
+
+## Distribution License
+
+The licensor grants you an additional copyright license to distribute copies of the software. Your license to distribute covers distributing the software with changes and new works permitted by Changes and New Works License.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software. For example:
+
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+
+## Changes and New Works License
+
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+
+## Noncommercial Purposes
+
+Any noncommercial purpose is a permitted purpose.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Work on behalf of any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution, without any anticipated commercial application, is use for a permitted purpose.
+
+## Fair Use
+
+You do not need a license under these terms for any use of the software that is fair use under copyright law.
+
+## No Other Rights
+
+These terms do not grant you any terms under copyright, patent, trademark, or other intellectual property, except as explicitly stated.
+
+## Patent Defense
+
+If you make any claim in writing that the software infringes or contributes to infringement of any patent, your patent license, and your license to distribute for changes and new works, for the software end immediately.
+
+## Limitations on Liability
+
+The software is provided as is, without any warranties. The licensor limits its liability for any damages arising out of or related to these terms or the software, to the maximum extent permitted by applicable law.
+
+## Copyright Notice
+
+You must ensure that the software includes a copyright notice. For example:
+
+> Copyright [Your Name or Company]
+```
+
+*(Be sure to replace `[Your Name or Company]` at the very bottom with your actual name or organization).*
+
+---
+
+### Alternative Backup Link
+If you need to view the official source files on GitHub, you can access the [PolyForm Licenses GitHub Repository](https://github.com/polyform-licenses/polyform-licenses).
